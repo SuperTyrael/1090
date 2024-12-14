@@ -14,11 +14,9 @@ This project aims to build a recommendation model (e.g., an article recommendati
 ├── LICENSE 
 └── README.md
 
-markdown
-复制代码
 
 If the dataset is too large to upload directly to GitHub, please download it from the link below:  
-[Dataset Download Link](http://example.com/dataset)
+[Dataset Download Link](https://drive.google.com/drive/folders/1dJrmdhiS3kWi-U9NtM5fIX_LF4ELXyva?usp=sharing)
 
 ## Environment Setup
 
